@@ -1,3 +1,5 @@
+#This is a package
+
 {
   "name": "hash",
   "version": "1.0.0",
